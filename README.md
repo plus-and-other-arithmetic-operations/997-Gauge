@@ -1,6 +1,6 @@
 # 997-Gauge
 
-Pro-bono project made for azuane's 997 Gauge.
+Pro-bono project made for azuane's 997 mod.
 
 ## Setup
 
